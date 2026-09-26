@@ -1,6 +1,7 @@
 Hello! Thanks for checking out my 99% offline WARDOGS mortar/artillery calculator port! 
 
 --*Please note that this calculator takes up ~3.17gb of space on a storage drive.*
+
 --*Zestafona and color map options, only work if you have internet connection and the original browser based calculator is working*
 
 ----------------*HOW TO*----------------
