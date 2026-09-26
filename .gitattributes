@@ -6,3 +6,4 @@
 *.005 filter=lfs diff=lfs merge=lfs -text
 *.006 filter=lfs diff=lfs merge=lfs -text
 *.bat filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
