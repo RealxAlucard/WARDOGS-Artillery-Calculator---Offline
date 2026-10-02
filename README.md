@@ -1,7 +1,7 @@
 Hello! Thanks for checking out my 100% offline WARDOGS mortar/artillery calculator port! 
 Original Credit to *[@apollyon-sys]*
 
---*Please note that this calculator takes up ~270MB of space on a storage drive.*
+--*Please note that the initial setup.exe takes up ~2GB. However, the calculator takes up ~270MB of space on a storage drive--!!See below!!*
 
 ----------------*HOW TO*----------------
 1. To install the calculator, simply download the [Setup Installer] "wardgos-offline-installer-v5.exe" and run it.
